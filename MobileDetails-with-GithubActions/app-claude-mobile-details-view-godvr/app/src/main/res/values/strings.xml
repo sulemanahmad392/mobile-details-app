@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mobile Details</string>
+    <string name="device_info">Device Info</string>
+    <string name="system_info">System Info</string>
+    <string name="display_info">Display Info</string>
+    <string name="memory_info">Memory (RAM)</string>
+    <string name="storage_info">Storage Info</string>
+    <string name="battery_info">Battery Info</string>
+    <string name="network_info">Network Info</string>
+    <string name="camera_info">Camera Info</string>
+    <string name="sim_info">SIM / Telephony</string>
+</resources>
